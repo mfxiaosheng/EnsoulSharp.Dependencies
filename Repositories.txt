@@ -1,6 +1,6 @@
 Core Extensions
 ---------------
-<repo>https://github.com/ensoulsharp-io/EnsoulSharp.Assemblies</repo>
+<repo>https://github.com/mfxiaosheng/EnsoulSharp.Assemblies</repo>
 
 Administrators
 --------------
