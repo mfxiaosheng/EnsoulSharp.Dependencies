@@ -17,7 +17,7 @@
     "System\\Newtonsoft.Json.dll": {
       "MD5": "D827DD8A8C4B2A2CFA23C7F90F3CCE95",
       "Download": "https://github.com/mfxiaosheng/EnsoulSharp.Dependencies/raw/master/System/Newtonsoft.Json.dll",
-      "Version": "12.0.1.22727"
+      "Version": "12.0.1.0"
     },
     "System\\SharpDX.Direct3D9.dll": {
       "MD5": "B64939D8F4E6658D90AD9C344994553B",
