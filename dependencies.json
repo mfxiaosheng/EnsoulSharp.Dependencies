@@ -10,9 +10,9 @@
       "Download": "https://github.com/ensoulsharp-io/EnsoulSharp.Dependencies/raw/master/System/EnsoulSharp.Bootstrap.dll"
     },
     "System\\EnsoulSharp.SDK.dll": {
-      "MD5": "7C81FCA4C380335395B173822EFAA280",
+      "MD5": "EEBAA7CAF0F2D406C9E59C866404DE03",
       "Download": "https://github.com/mfxiaosheng/EnsoulSharp.Dependencies/raw/master/System/EnsoulSharp.SDK.dll",
-      "Version": "1.0.0.2"
+      "Version": "1.0.0.3"
     },
 
    "System\\Newtonsoft.Json.dll": {
